@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+api_key.txt
+debug.log
+vt_results.txt
+checked_ips.pkl
